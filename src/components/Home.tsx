@@ -1,15 +1,15 @@
 import Resume from "../assets/images/resume.pdf";
-import Jay from "../assets/images/Jane.png";
+import Jay from "../assets/images/john.jpg";
 const Home = () => {
   return (
     <div id="home">
       <div className="homeLink">
         <div className="HomeLink">
-          <a href="tel:+2348104434732" target="_blank">
-            +2348104434732
+          <a href="tel:+2349027901278" target="_blank">
+            +2349027901278
           </a>
-          <a href="mailto:ezikenkemdilijane@gmail.com" target="_blank">
-            ezikenkemdilijane@gmail.com
+          <a href="mailto:ebuakikenwa0902@gmail.com" target="_blank">
+          ebuakikenwa0902@gmail.com
           </a>
         </div>
         <div>
@@ -21,16 +21,14 @@ const Home = () => {
         <div className="homeFirst">
           <div>
             <h2>Hello, My name is</h2>
-            <h1>Nkemdili Jane</h1>
+            <h1>Ikenwa John</h1>
             <div className="roll">
-              <h3>Frontend Developer</h3>
+              <h3>Mobile Developer</h3>
               <h3>Electronic Engineer </h3>
               <h3>Technical writer</h3>
             </div>
             <p>
-              I design and develop services for customers of all sizes,
-              specializing in creating stylish, modern websites, web services
-              and articles.
+              I develop, test and deploy Native and Hybrid Mobile Application software.
             </p>
             <a href={Resume} download className="download-button">
               Download Resume

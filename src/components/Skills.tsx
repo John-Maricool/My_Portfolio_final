@@ -10,34 +10,29 @@ const Skills = () => {
             <p>University Of Nigeria, Nsukka</p>
           </div>
           <div className="edu0">
-            <p>March 2022 - July 2022</p>
-            <h3>Website Development</h3>
-            <p>Kodecamp, Remote</p>
-          </div>
-          <div className="edu0">
-            <p>Feb 2021 - Oct 2021</p>
-            <h3>Website Development</h3>
-            <p>Applied Technology, Enugu</p>
+            <p>September 2022 - March 2023</p>
+            <h3>Android Development</h3>
+            <p>Google Africa Developer Training Program</p>
           </div>
         </div>
         <div className="edu2">
           <div>
-            <h3>HTNL5</h3>
+            <h3>Java</h3>
           </div>
           <div>
-            <h3> CSS || Bootstrap || Tailwind || Styled Component</h3>
+            <h3>Kotlin</h3>
           </div>
           <div>
-            <h3>ReactJS</h3>
+            <h3>Dart</h3>
           </div>
           <div>
-            <h3>NextJS</h3>
+            <h3>Android SDK || Jetpack compose || Android Archtecture components</h3>
           </div>
           <div>
-            <h3>TypeScript</h3>
+            <h3>Flutter SDK || Provider || GetX</h3>
           </div>
           <div>
-            <h3>Python</h3>
+            <h3>Firebase SDK || Cloud firestore || Firebase Storage || Authentication</h3>
           </div>
         </div>
       </div>

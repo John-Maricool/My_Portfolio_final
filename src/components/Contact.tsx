@@ -52,15 +52,15 @@ const Contact = () => {
           <div className="conIcon">
             <div>
               <HiOutlineLocationMarker />
-              <p>Gbagada, Lagos State</p>
+              <p>Ejigbo, Lagos State</p>
             </div>
             <div>
               <SiGmail />
-              <p>ezikenkemdilijane@gmail.com</p>
+              <p>ebukaikenwa0902@gmail.com</p>
             </div>
             <div>
               <BsFillTelephoneOutboundFill />
-              <p>+2349157364210</p>
+              <p>+2349027901278</p>
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@ const Contact = () => {
           title="map"
           className="absolute inset-0"
           style={{ filter: "opacity(0.7)" }}
-          src="https://www.google.com/maps/embed/v1/place?q=Gbagada,+Lagos,+Nigeria&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+          src="https://www.google.com/maps/embed/v1/place?q=Ejigbo,+Lagos,+Nigeria&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
         ></iframe>
       </div>
     </div>
