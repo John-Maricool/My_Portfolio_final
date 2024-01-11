@@ -12,7 +12,7 @@ const Foot = () => {
           <BsGithub className="footIcon1" />
           <AiOutlineInstagram className="footIcon1" />
         </div>
-        <div><p>© 2023 copyright <span>Jhenna</span> all right reserved </p></div>
+        <div><p>© 2023 copyright <span>John</span> all right reserved </p></div>
       </div>
     </div>
   );

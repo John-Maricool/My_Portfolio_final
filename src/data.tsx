@@ -8,16 +8,16 @@ import {
   Client1,
   Client2,
   Client3,
-  Reacty,
-  Typy,
-  GitIntro,
-  Gity,
-  Reducery,
+  master,
+  should,
   sushi,
   LMSY,
+  arch,
+  solid,
   Diety,
   Note,
   port,
+  learn,
 } from "./assets";
 interface Prof {
   id: number;
@@ -125,47 +125,47 @@ export const myData2: Prof[] = [
 export const myData3: Prof[] = [
   {
     id: 1,
-    image: Reacty,
-    para: "An article writeen on introduction to reactjs",
-    title: "INTRODUCTION TO REACTJS",
+    image: arch,
+    para: "An article writeen on architectural patterns",
+    title: "Architectural Patterns in Mobile Development",
     hosted:
-      "https://medium.com/@ezikejanenkemdili/introduction-to-the-internet-and-brief-history-of-html-8d334e46a648",
+      "https://medium.com/@ebukaikenwa/architectural-patterns-in-mobile-development-81ea74943a4?source=user_profile---------0----------------------------",
     github: "#",
   },
   {
     id: 2,
-    image: Typy,
-    para: "An article written on React in TypeScript: A Guide to the Differences You Need to Know",
-    title: "React in TypeScript: A Guide to the Differences You Need to Know",
+    image: master,
+    para: "An article written on best practices in coding.",
+    title: "Mastering Coding Best Practices: A Comprehensive Guide for Developers",
     hosted:
-      "https://medium.com/@ezikejanenkemdili/react-in-typescript-a-guide-to-the-differences-you-need-to-know-ab0b07d11d58",
+      "https://medium.com/@ebukaikenwa/mastering-coding-best-practices-a-comprehensive-guide-for-developers-b6d1f630465c",
     github: "#",
   },
   {
     id: 3,
-    image: Gity,
-    para: "An article written on GIT REBASE, GIT CHERRY-PICK, AND GIT REVERT",
-    title: "GIT REBASE, GIT CHERRY-PICK, AND GIT REVERT",
+    image: solid,
+    para: "An article written on SOLID principles",
+    title: "Mastering SOLID: A Guide to Writing Maintainable Code",
     hosted:
-      "https://medium.com/@ezikejanenkemdili/git-rebase-git-cherry-pick-and-git-revert-a3d590d7e38f",
+      "https://medium.com/@ebukaikenwa/mastering-solid-a-guide-to-writing-maintainable-code-410987c815b8",
     github: "#",
   },
   {
     id: 4,
-    image: GitIntro,
-    para: "An article written on INTRODUCTION TO GIT AND GITHUB",
-    title: "INTRODUCTION TO GIT AND GITHUB",
+    image: learn,
+    para: "An article written on learning Android ddevelopment",
+    title: "Learning Pathway for Android development.",
     hosted:
-      "https://medium.com/@ezikejanenkemdili/introduction-to-git-and-github-bb373ed017cc",
+      "https://medium.com/@ebukaikenwa/learning-pathway-for-android-development-12dfd7227464",
     github: "#",
   },
   {
     id: 5,
-    image: Reducery,
-    para: "An article written on useReducer Hook in ReactJS",
-    title: "useReducer Hook in ReactJS",
+    image: should,
+    para: "An article written on the best ways to learn coding",
+    title: "Should I learn coding on my own or through a Bootcamp/online course?",
     hosted:
-      "https://medium.com/@ezikejanenkemdili/usereducer-hook-in-reactjs-394d1ae33436",
+      "https://medium.com/@ebukaikenwa/should-i-learn-coding-on-my-own-or-through-a-bootcamp-online-course-97ada005388b",
     github: "#",
   },
 ];
@@ -174,22 +174,22 @@ export const MyTes: Profy[] = [
   {
     id: 1,
     image: Client,
-    para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis inventore laboriosam qui eum quo, repellat quae omnis at, repudiandae ipsum sit aut? Sapiente atque minus deserunt aut rem officia repudiandae.",
+    para: "I am so happy with the result, he was super quick, understood everything I needed and delivered exactly what I wanted. I'm a developer myself and I can see based on the code he wrote that he is a highly skilled Android Dev. Someone who is actually good at Jetpack Compose! Would recommend 10/10.",
   },
   {
     id: 2,
     image: Client1,
-    para: "        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis inventore laboriosam qui eum quo, repellat quae omnis at, repudiandae ipsum sit aut? Sapiente atque minus deserunt aut rem officia repudiandae.",
+    para: "Ebuka is a developer with great skills. Great communication and always ready to give his input on improving app.",
   },
   {
     id: 3,
     image: Client3,
-    para: "        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis inventore laboriosam qui eum quo, repellat quae omnis at, repudiandae ipsum sit aut? Sapiente atque minus deserunt aut rem officia repudiandae.",
-  },
+    para: "Good work again. this is 3rd time i work with him."
+    },
   {
     id: 4,
     image: Client2,
-    para: "        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis inventore laboriosam qui eum quo, repellat quae omnis at, repudiandae ipsum sit aut? Sapiente atque minus deserunt aut rem officia repudiandae.",
+    para: "Ebuka approach the job with skill, it looked simple, but when jsk issues came up, he handled it. Would keep intouch for future projects.",
   },
   // {
   //   id: 5,

@@ -5,55 +5,56 @@ const Experience = () => {
       <div className="expCard">
         <div className="bioCard1">
           <div className="biotxt">
-            <h3>Frontend Intern </h3>
+            <h3>Mobile Developer (Flutter) </h3>
             <p>Remote</p>
-            <p>Dec 2022 - present</p>
+            <p>September 2023 - present</p>
           </div>
-          <span>Partime</span>
+          <span>Fulltime</span>
         </div>
         <div className="bioCard2">
-          <h3>Genesys Techub</h3>
+          <h3>Netshift Digital Ltd</h3>
           <p>
-            I Actively participated in team projects, collaborating effectively
-            with cross-functional teams to deliver successful web development
-            initiatives. Utilized TypeScript to enhance code maintainability and
-            facilitate smooth collaboration within the team.
+          As a full-time Hybrid Developer, I actively engaged in diverse projects, collaborating with cross-functional 
+          teams to develop and deliver mobile applications for clients and publication. My role encompassed the end-to-end 
+          development process, 
+          ensuring the successful creation of high-quality and user-friendly mobile applications across various domains.
           </p>
         </div>
       </div>
       <div className="expCard">
         <div className="bioCard1">
           <div className="biotxt">
-            <h3>Tutor </h3>
+            <h3>Flutter Developer </h3>
             <p>Remote</p>
-            <p>Feb 2023 - June 2023</p>
+            <p>May 2023 - September 2023</p>
           </div>
-          <span>Partime</span>
+          <span>Fulltime</span>
         </div>
         <div className="bioCard2">
-          <h3>HerTechTrail</h3>
+          <h3>Zeeck Digital Concept</h3>
           <p>
-            I taught and mentored students in the fundamentals of HTML, CSS, and
-            JavaScript. Developed personalized lesson plans and instructional
-            materials to cater to the individual learning needs of each student.
+          Joined the Tech group and collaborated closely with fellow developers to design, build, and test the 
+          ZRide driver and user application. Contributed to coding, participated in agile development, and
+          ensured a seamless user experience. Played a key role in code reviews, emphasizing quality, and actively
+          engaged in comprehensive testing, including unit and integration testing.
           </p>
         </div>
       </div>
       <div className="expCard">
         <div className="bioCard1">
           <div className="biotxt">
-            <h3>Frontend Developer </h3>
-            <p>Remote</p>
-            <p>Sept 2022 - January 2023</p>
+            <h3>Android Developer</h3>
+            <p>Hybrid</p>
+            <p>February 2023 - April 2023</p>
           </div>
-          <span>Contract</span>
+          <span>Internship</span>
         </div>
         <div className="bioCard2">
-          <h3>Echub</h3>
+          <h3>Des & Dev Ltd</h3>
           <p>
-            I developed the sign-up and login pages for the website using
-            ReactJS and CSS. Collaborated closely with the team to ensure
-            seamless integration and adherence to design specifications
+As a full-time Hybrid Developer, I focused on a demo escrow application, collaborating with cross-functional teams. 
+My responsibilities included coding and testing, contributing to the project's initial stages. 
+This experience enhanced my skills in mobile application development.
           </p>
         </div>
       </div>

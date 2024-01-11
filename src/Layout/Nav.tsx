@@ -17,7 +17,7 @@ const Nav: React.FC = () => {
     <>
       <div className={`nav  ${show && "activy"}`}>
         <div className="orange">
-          <h1>N</h1>
+          <h1>J</h1>
         </div>
         <nav>
           <a

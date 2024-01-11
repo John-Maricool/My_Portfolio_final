@@ -67,7 +67,7 @@ const Contact = () => {
         <div className="contact2">
           <h2>Say Something</h2>
           <form
-            action="https://formsubmit.co/0bc4eedcd7b0bd97a5262722c21ba9c2"
+            action="https://formsubmit.co/f33ec9f5d2959e8320d7ee78d27a2fb9"
             method="POST"
             ref={form}
             onSubmit={sendEmail}
