@@ -3,13 +3,6 @@ import { useState } from "react";
 import { myData3 } from "../data";
 import Modal from "./Modal";
 
-interface Article {
-  id: number;
-  title: string;
-  image: string;
-  para: string;
-}
-
 const Blog = () => {
   const [modalVisible, setModalVisible] = useState(false);
   const [selectedItem, setSelectedItem] = useState(null);
