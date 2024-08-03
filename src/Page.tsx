@@ -21,13 +21,13 @@ const Page: React.FC = () => {
         <Job />
       </section>
       <section>
-        <Tes />
-      </section>
-      <section>
         <Experience />
       </section>
       <section>
         <Skills />
+      </section>
+      <section>
+        <Tes />
       </section>
       <section>
         <Blog />

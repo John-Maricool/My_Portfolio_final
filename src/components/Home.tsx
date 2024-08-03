@@ -21,7 +21,7 @@ const Home = () => {
         <div className="homeFirst">
           <div>
             <h2>Hello, My name is</h2>
-            <h1>Ikenwa John Ebuka</h1>
+            <h1>Ikenwa Ebuka</h1>
             <div className="roll">
               <h3>Mobile Developer</h3>
               <h3>Electronic Engineer </h3>
